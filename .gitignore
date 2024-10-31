@@ -1,0 +1,9 @@
+# macOS system files
+.DS_Store
+
+# Git-related files
+.gitattributes
+
+# Custom files or directories to ignore
+Initial commit
+now
