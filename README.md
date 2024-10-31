@@ -2,7 +2,8 @@
 
 **MIT Super Simple JavaScript On/Off for Your Browser – Just One Thing Done Right!**
 
-![JavaScript On/Off Icon](app-store/green_512x512.png)
+<img src="app-store/green_512x512.png" alt="JavaScript On/Off Icon" width="100" />
+
 
 ## 📄 Table of Contents
 
